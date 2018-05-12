@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17217#The-Atlantic-Monthly-Volume-18-No.-110-December-1866A-Magazine-of-Literature-Science-Art-and-_
 gutenberg_bookshelf: The Atlantic Monthly
 gutenberg_issued: '2005-12-04'
 gutenberg_type: Text
